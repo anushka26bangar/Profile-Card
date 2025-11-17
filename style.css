@@ -1,0 +1,12 @@
+
+.profile-card{
+  border:2px black solid;
+  display: block;
+  justify-content: center;
+  align-items: center;
+}
+.details{
+  display: flex;
+  justify-content: center;
+  
+}
